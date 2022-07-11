@@ -23,17 +23,17 @@ global.owner = ['94752521338']
 global.premium = ['94752521338']
 global.ownernomer = '94752521338'
 global.ownername = '꧁🍁𝘼𝘾𝙃𝙄𝙔𝘼🍁꧂༺ᵇᵒᵗ༻'
-global.botname = '🎭ＡＣＨＩＮＴＨＡ🎭'
+global.botname = '🧚‍♂️A͜͡C͜͡H͜͡I͜͡N͜͡T͜͡H͜͡A͜͡🧚‍♂️'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/Pakaya67377374/Queen-Bixby-MD/edit/master/settings.js'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://chat.whatsapp.com/I1MmboNX1wY9DbMoQRvVAq'
+global.myweb = 'https://chat.whatsapp.com/IDumKeDMBbZJRRTZ2cwUdf'
 global.packname = '🍁𝙖𝙘𝙝𝙞𝙮𝙖🍁 MD'
 global.author = '🎭ＡＣＨＩＮＴＨＡ🎭 '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.sp = '🧚‍♂️'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
