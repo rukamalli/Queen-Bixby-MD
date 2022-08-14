@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94752521338']
-global.premium = ['94752521338']
-global.ownernomer = '94752521338'
-global.ownername = '꧁🍁𝘼𝘾𝙃𝙄𝙔𝘼🍁꧂༺ᵇᵒᵗ༻'
-global.botname = '🧚‍♂️A͜͡C͜͡H͜͡I͜͡N͜͡T͜͡H͜͡A͜͡🧚‍♂️'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.owner = ['94702287970']
+global.premium = ['9472287970']
+global.ownernomer = '94702287970'
+global.ownername = '꧁🍁RUKKA🍁꧂༺ᵇᵒᵗ༻'
+global.botname = '🧚‍♂️KING RUKKA 2022🧚‍♂️'
+global.footer = ' KING RUKKA ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/Pakaya67377374/Queen-Bixby-MD/edit/master/settings.js'
-global.region = 'India, South India, Kerala'
+global.region = 'SRI LANKA'
 global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
 global.myweb = 'https://chat.whatsapp.com/IDumKeDMBbZJRRTZ2cwUdf'
-global.packname = '🍁𝙖𝙘𝙝𝙞𝙮𝙖🍁 MD'
-global.author = '🎭ＡＣＨＩＮＴＨＡ🎭 '
+global.packname = '🍁KING RUKA 🍁 MD'
+global.author = '🎭K I N G  R U K K A🎭 '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🧚‍♂️'
